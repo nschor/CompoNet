@@ -11,11 +11,12 @@ This work is based on our [ICCV paper](https://arxiv.org/abs/1811.07441). We pre
 ## Citation
 If you find our work useful in your research, please consider citing:
 
-	@article{schor2018componet,
-	  title={CompoNet: Learning to Generate the Unseen by Part Synthesis and Composition},
-	  author={Schor, Nadav and Katzir, Oren and Zhang, Hao and Cohen-Or, Daniel},
-	  journal={arXiv preprint arXiv:1811.07441},
-	  year={2018}
+	@InProceedings{Schor_2019_ICCV,
+	  author = {Schor, Nadav and Katzir, Oren and Zhang, Hao and Cohen-Or, Daniel},
+	  title = {CompoNet: Learning to Generate the Unseen by Part Synthesis and Composition},
+	  booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+	  month = {October},
+	  year = {2019}
 	}
 
 
